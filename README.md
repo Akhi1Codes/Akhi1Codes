@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akhil Reddy</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ar-akhil&label=Profile%20views&color=0e75b6&style=flat" alt="ar-akhil" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ar-akhil" alt="ar-akhil" /></a> </p>
-
 - 🌱 I’m currently learning **The Odin Project**
 
 - 💬 Ask me about **javascript**
