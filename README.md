@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Akhil Reddy</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h1 align="center">Hi 👋, I'm Akhil Reddy N V</h1>
+<h3 align="center">A passionate Web developer</h3>
 
 - 🌱 I’m currently learning **The Odin Project**
 
