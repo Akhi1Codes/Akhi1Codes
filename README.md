@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **The Odin Project**
 
-- 💬 Ask me about **javascript**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **ar.akhil1511@gmial.com**
 
