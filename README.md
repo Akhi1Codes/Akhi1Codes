@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akhil</h1>
-<h3 align="center"> Web developer</h3>
+<h3 align="center"> React developer</h3>
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Things i know**
 
-- 📫 How to reach me **ar.akhil1511@gmail.com**
+- 📫 How to reach me **Think about me thrice**
 
