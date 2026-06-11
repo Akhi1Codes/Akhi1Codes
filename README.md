@@ -1,4 +1,6 @@
-![Chilling GIF](github.gif)
+<p align="center">
+  <img src="coding.gif" alt="Coding GIF" width="100%">
+</p>
 
 <h1 align="center">Hi 👋, I'm Akhil</h1>
 <h3 align="center"> React developer</h3>
