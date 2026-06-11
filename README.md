@@ -10,7 +10,7 @@
 ## 🚀 About Me
 - 🔭 I’m currently working on improving my frontend skills
 - 🌱 I’m learning React ecosystem deeply (Hooks, State Management, Performance)
-- 💬 Ask me about **React, TypeScript, JavaScript, HTML, CSS**
+- 💬 Ask me about **React, TypeScript, JavaScript, Frappe**
 - ⚡ Fun fact: I turn coffee ☕ into components
 
 ---
