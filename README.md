@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github.gif" alt="Coding GIF" height="300">
+  <img src="github.gif" alt="Coding GIF" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Akhil</h1>
 <h3 align="center"> React developer</h3>
