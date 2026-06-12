@@ -20,10 +20,6 @@
   <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,redux,nodejs,python,mysql,postgres,git,github,vscode,postman,figma" />
 </p>
 
-<p align="center">
-  🏗️ Frappe Framework • 📦 ERPNext
-</p>
-
 ---
 
 ## 📌 What I Do
