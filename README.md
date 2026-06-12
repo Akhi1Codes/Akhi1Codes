@@ -17,7 +17,11 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,redux,nodejs,python,mysql,postgres,git,github,vscode,postman,figma" />
+</p>
+
+<p align="center">
+  🏗️ Frappe Framework • 📦 ERPNext
 </p>
 
 ---
