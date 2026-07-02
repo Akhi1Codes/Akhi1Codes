@@ -33,5 +33,5 @@
 ## 📫 Connect With Me
 * 💬 Ask me about React or frontend stuff
 * 📩 Reach me: *Think about me thrice 😄*
-* 🌐 Portfolio: **https://www.akhildev.in**
+* 🌐 Portfolio: **[akhildev.in](https://www.akhildev.in/)**
 
