@@ -12,6 +12,7 @@
 * 🌱 I’m diving deep into the React ecosystem (Hooks, State Management, Performance Optimization)
 * 💬 Ask me about **React, TypeScript, JavaScript, and Frappe**
 * 🛠️ I build modern web applications with **React** and **Frappe**
+* 🦀 I’m currently learning **Rust** and exploring systems programming
 
 ---
 
